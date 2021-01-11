@@ -1,0 +1,14 @@
+D:\Downloads\DesignPatternSamples-main\src\Application\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.deps.json
+D:\Downloads\DesignPatternSamples-main\src\Application\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.dll
+D:\Downloads\DesignPatternSamples-main\src\Application\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.pdb
+D:\Downloads\DesignPatternSamples-main\src\Application\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.dll
+D:\Downloads\DesignPatternSamples-main\src\Application\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.dll
+D:\Downloads\DesignPatternSamples-main\src\Application\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.pdb
+D:\Downloads\DesignPatternSamples-main\src\Application\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.pdb
+D:\Downloads\DesignPatternSamples-main\src\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\Downloads\DesignPatternSamples-main\src\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\Downloads\DesignPatternSamples-main\src\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\Downloads\DesignPatternSamples-main\src\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\Downloads\DesignPatternSamples-main\src\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\Downloads\DesignPatternSamples-main\src\Application\obj\Debug\netcoreapp3.1\DesignPatternSamples.Application.dll
+D:\Downloads\DesignPatternSamples-main\src\Application\obj\Debug\netcoreapp3.1\DesignPatternSamples.Application.pdb
